@@ -5,7 +5,7 @@
 - [x] Initialize Flask
 - [x] Configure Tailwind CSS
 - [x] Implement Flask Application Factory
-- [ ] Design use cases
+- [x] Design use cases
 - [ ] Design system architecture
 - [ ] Create database ER diagram
 

@@ -67,11 +67,13 @@ Frontend
 * React
 * TypeScript
 * Tailwind CSS
+* Vite
 
 Backend
-* Flask
-* SQLAlchemy
+* ASP.NET Core Web API
+* Entity Framework Core
 * PostgreSQL
+
 
 Cloud
 * AWS Cognito

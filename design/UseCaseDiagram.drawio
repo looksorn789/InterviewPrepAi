@@ -1,0 +1,109 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="QHgS4XsoeuPma171N5Kp">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ShmRKXKANs-xv-onQBms-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="120" width="60" x="90" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Resume Upload" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Take Mock Interviews" vertex="1">
+          <mxGeometry height="50" width="200" x="560" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Coding Challenges" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Set up Profile" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="View All Progress" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="284.40999999999997" as="sourcePoint" />
+            <mxPoint x="560" y="284.40999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Register an Account" vertex="1">
+          <mxGeometry height="50" width="200" x="290" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analyze Resume" vertex="1">
+          <mxGeometry height="50" width="200" x="560" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Generate Interview Plan" vertex="1">
+          <mxGeometry height="50" width="200" x="560" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ShmRKXKANs-xv-onQBms-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ShmRKXKANs-xv-onQBms-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="290" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ShmRKXKANs-xv-onQBms-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="362.5" as="sourcePoint" />
+            <mxPoint x="290" y="207.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ShmRKXKANs-xv-onQBms-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="362.5" as="sourcePoint" />
+            <mxPoint x="290" y="207.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-33" edge="1" parent="1" source="ShmRKXKANs-xv-onQBms-2" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="ShmRKXKANs-xv-onQBms-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="372.5" as="sourcePoint" />
+            <mxPoint x="290" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ShmRKXKANs-xv-onQBms-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="362.5" as="sourcePoint" />
+            <mxPoint x="290" y="207.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ShmRKXKANs-xv-onQBms-36" edge="1" parent="1" source="PFIH-v1xdFfdqS9FLeqN-1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ShmRKXKANs-xv-onQBms-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="535" as="sourcePoint" />
+            <mxPoint x="470" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFIH-v1xdFfdqS9FLeqN-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Recieve Ai Feedback" vertex="1">
+          <mxGeometry height="50" width="200" x="560" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="PFIH-v1xdFfdqS9FLeqN-3" edge="1" parent="1" source="ShmRKXKANs-xv-onQBms-13" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ShmRKXKANs-xv-onQBms-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="661.75" y="309" as="sourcePoint" />
+            <mxPoint x="658.25" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFIH-v1xdFfdqS9FLeqN-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="659.5" y="400" as="sourcePoint" />
+            <mxPoint x="659.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFIH-v1xdFfdqS9FLeqN-5" edge="1" parent="1" source="ShmRKXKANs-xv-onQBms-6" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="PFIH-v1xdFfdqS9FLeqN-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="659.5" y="485" as="sourcePoint" />
+            <mxPoint x="659.5" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
