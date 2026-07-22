@@ -17,6 +17,6 @@ The application follows a client-server architecture where the React frontend co
 
 ## High-Level Architecture
 
-![Architecture](../design/architecture/Overview.png)
+![Architecture](../design/Architecture/Overview.png)
 
-> Editable source: [architecture.drawio](../design/architecture/Overview.drawio)
+> Editable source: [architecture.drawio](../design/Architecture/Overview.drawio)
